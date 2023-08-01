@@ -1,0 +1,17 @@
+Django
+whitenoise
+sentinelhub
+numpy
+Pillow
+geojson
+matplotlib
+pystac
+pystac_client
+scikit-image
+pandas
+folium
+geopandas
+Fiona
+branca
+python-csv==0.0.10
+psycopg2
